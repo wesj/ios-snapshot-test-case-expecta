@@ -1,6 +1,6 @@
 
 ### 3.x (Next)
-
+* [#47](https://github.com/dblock/ios-snapshot-test-case-expecta/pull/47): Update to iOSSnapshotTest 6.2 - [@wesj](https://github.com/wesj).
 
 ### 3.1.1 (02/25/2017)
 
